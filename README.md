@@ -1,0 +1,1 @@
+These little projects are here to really show and archive all of the stuff I've done in my days of just starting out as a Frontend Developer. I'll be SUPERDUPER torn apart if I lose these, so to (hopefully) keep them forever, I'm gonna put it all here.
